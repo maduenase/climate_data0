@@ -1,4 +1,5 @@
-# climate_data0
+# Panel datasets with GHGE indicators and Cohesion Funds expending NUTS2
+
 Some useful data connected to climate change
 
 Sources with geographical information:
